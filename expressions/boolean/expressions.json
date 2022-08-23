@@ -8,5 +8,10 @@
     "name": "Doing well?",
     "answer": "enoughsleeptrue",
     "correct": false
+  },
+  {
+    "name": "Doing well?",
+    "answer": "enoughSleep && keepingUp",
+    "correct": true
   }
 ]
