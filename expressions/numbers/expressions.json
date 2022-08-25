@@ -28,5 +28,11 @@
     "answer": "10*10*10*10*10*10",
     "correct": true,
     "timestamp": 1661399283792
+  },
+  {
+    "name": "Sally's apples",
+    "answer": "6-4",
+    "correct": true,
+    "timestamp": 1661399317333
   }
 ]
