@@ -94,5 +94,11 @@
     "answer": "s[1,lenth]",
     "correct": false,
     "timestamp": 1661547478610
+  },
+  {
+    "name": "All but first",
+    "answer": "s.substring(1,2)",
+    "correct": false,
+    "timestamp": 1661547738349
   }
 ]
