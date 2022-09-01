@@ -117,5 +117,19 @@
     "answer": "sleepy && dark",
     "correct": false,
     "timestamp": 1662070340900
+  },
+  {
+    "name": "Time to sleep?",
+    "canonical": "!sleepy || !dark",
+    "answer": "sleepy && dark",
+    "correct": false,
+    "timestamp": 1662070341157
+  },
+  {
+    "name": "Time to sleep?",
+    "canonical": "!sleepy || !dark",
+    "answer": "sleepy && dark",
+    "correct": false,
+    "timestamp": 1662070341420
   }
 ]
