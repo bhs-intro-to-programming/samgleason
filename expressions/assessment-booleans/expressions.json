@@ -47,5 +47,12 @@
     "answer": "!afraidOfTheDark && !afraidOfSpiders",
     "correct": true,
     "timestamp": 1662069722885
+  },
+  {
+    "name": "Time to sleep?",
+    "canonical": "!sleepy || !dark",
+    "answer": "sleepy && dark",
+    "correct": false,
+    "timestamp": 1662069764886
   }
 ]
