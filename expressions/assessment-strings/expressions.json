@@ -68,5 +68,12 @@
     "answer": "'FOO'.toLowerCase()",
     "correct": false,
     "timestamp": 1662155237927
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "'s'.toLowerCase()",
+    "correct": false,
+    "timestamp": 1662155283030
   }
 ]
