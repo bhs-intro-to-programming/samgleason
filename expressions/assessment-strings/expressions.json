@@ -61,5 +61,12 @@
     "answer": "f[0].toUpperCase() + foo.substring(1)",
     "correct": false,
     "timestamp": 1662155142972
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "'FOO'.toLowerCase()",
+    "correct": false,
+    "timestamp": 1662155237927
   }
 ]
