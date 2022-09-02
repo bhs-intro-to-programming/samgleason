@@ -103,5 +103,19 @@
     "answer": "'S'.toLowerCase()",
     "correct": false,
     "timestamp": 1662155368999
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "'String'.toLowerCase()",
+    "correct": false,
+    "timestamp": 1662155393840
+  },
+  {
+    "name": "lower case",
+    "canonical": "s.toLowerCase()",
+    "answer": "'STRING'.toLowerCase()",
+    "correct": false,
+    "timestamp": 1662155431664
   }
 ]
