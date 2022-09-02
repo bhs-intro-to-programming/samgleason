@@ -5,5 +5,12 @@
     "answer": "s.toUpperCase(string)",
     "correct": false,
     "timestamp": 1662154648796
+  },
+  {
+    "name": "UPPER CASE",
+    "canonical": "s.toUpperCase()",
+    "answer": "s.toUpperCase()",
+    "correct": true,
+    "timestamp": 1662154673788
   }
 ]
