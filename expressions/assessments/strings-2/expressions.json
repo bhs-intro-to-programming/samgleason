@@ -19,5 +19,12 @@
     "answer": "'s.ban' + 'ana' .toUpperCase()",
     "correct": false,
     "timestamp": 1662501742633
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "'s.' + banana .toUpperCase()",
+    "correct": false,
+    "timestamp": 1662501879957
   }
 ]
