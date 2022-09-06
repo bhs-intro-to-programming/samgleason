@@ -33,5 +33,12 @@
     "answer": "'s.'.toUpperCase() + banana",
     "correct": false,
     "timestamp": 1662501914166
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "'s' .toUpperCase() + banana",
+    "correct": false,
+    "timestamp": 1662501932614
   }
 ]
