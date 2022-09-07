@@ -180,5 +180,12 @@
     "answer": "s[i]",
     "correct": false,
     "timestamp": 1662588520384
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "str[i]",
+    "correct": false,
+    "timestamp": 1662588679731
   }
 ]
