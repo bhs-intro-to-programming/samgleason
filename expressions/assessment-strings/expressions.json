@@ -173,5 +173,12 @@
     "answer": "s.toLowerCase()",
     "correct": true,
     "timestamp": 1662588499000
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s[i]",
+    "correct": false,
+    "timestamp": 1662588520384
   }
 ]
