@@ -229,5 +229,12 @@
     "answer": "s.substring(0,s.length-3)",
     "correct": false,
     "timestamp": 1662589254193
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s.substring(1,6)",
+    "correct": false,
+    "timestamp": 1662589450324
   }
 ]
