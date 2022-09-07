@@ -187,5 +187,12 @@
     "answer": "str[i]",
     "correct": false,
     "timestamp": 1662588679731
+  },
+  {
+    "name": "Length",
+    "canonical": "s.length",
+    "answer": "s.length",
+    "correct": true,
+    "timestamp": 1662588741140
   }
 ]
