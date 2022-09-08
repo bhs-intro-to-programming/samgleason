@@ -334,5 +334,12 @@
     "answer": "'s'[-1]",
     "correct": false,
     "timestamp": 1662673965188
+  },
+  {
+    "name": "Last character",
+    "canonical": "s[s.length - 1]",
+    "answer": " s.length[-1]",
+    "correct": false,
+    "timestamp": 1662674130529
   }
 ]
