@@ -383,5 +383,12 @@
     "answer": "s.substring(3).toUpperCase()",
     "correct": false,
     "timestamp": 1662674712268
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "s1 + s2",
+    "answer": "s1+S2",
+    "correct": false,
+    "timestamp": 1662674804920
   }
 ]
