@@ -159,5 +159,12 @@
     "answer": "s[0].toUpperCase() + s.substring(1).toLowerCase()",
     "correct": true,
     "timestamp": 1662610383164
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "canonical": "'foobar'",
+    "answer": "'foo' + 'bar'",
+    "correct": true,
+    "timestamp": 1662943425166
   }
 ]
