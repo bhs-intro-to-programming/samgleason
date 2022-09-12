@@ -173,5 +173,12 @@
     "answer": "\ts.substring(2,-2)",
     "correct": false,
     "timestamp": 1663019511138
+  },
+  {
+    "name": "All but first and last",
+    "canonical": "s.substring(1, s.length - 1)",
+    "answer": "\ts.substring(2,2)",
+    "correct": false,
+    "timestamp": 1663019516890
   }
 ]
