@@ -88,5 +88,12 @@
     "answer": "60*60*24*365*100",
     "correct": true,
     "timestamp": 1661399959646
+  },
+  {
+    "name": "Ten",
+    "canonical": "10",
+    "answer": "5+5",
+    "correct": true,
+    "timestamp": 1663019785785
   }
 ]
