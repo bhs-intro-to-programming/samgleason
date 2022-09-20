@@ -54,7 +54,7 @@
 // starting with // like what you're reading right now. Or you can enclose code
 // in a /* and then */ like the instruction above.)
 
-//drawLine(1, -1, width, height, 'red');
+//drawLine(1, 10, width, height, 'red');
 
 drawCircle(width / 10, height / 10, 10, 'blue');
 
