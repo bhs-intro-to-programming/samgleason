@@ -1,4 +1,4 @@
-let x = subtract(4, 3); 
+let x = subtract(a, b); 
 
 function subtract(a, b) {
   return a - b;             
