@@ -432,5 +432,12 @@
     "answer": "\ts.substring(2,s.length5)",
     "correct": false,
     "timestamp": 1663636101993
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "\ts.substring(2,s.length6)",
+    "correct": false,
+    "timestamp": 1663636107140
   }
 ]
