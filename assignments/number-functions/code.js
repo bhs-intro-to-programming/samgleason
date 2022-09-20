@@ -1,5 +1,5 @@
-let x = myFunction(4, 3); 
+let x = add(4, 3); 
 
-function myFunction(a, b) {
+function add(a, b) {
   return a + b;             
 }
