@@ -411,5 +411,12 @@
     "answer": "\ts.substring(0,s.substring3)",
     "correct": false,
     "timestamp": 1663636049895
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "\ts.substring(0,3)",
+    "correct": false,
+    "timestamp": 1663636061848
   }
 ]
