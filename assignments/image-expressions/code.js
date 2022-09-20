@@ -71,7 +71,7 @@ drawFilledTriangle(
   width * 0.30,
   height= 20,
   width * 0.75,
-  height - 20,
+  height - 50,
   width * -5.0,
   height - 80,
   'blue');
