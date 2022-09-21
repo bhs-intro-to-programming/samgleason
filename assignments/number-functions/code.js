@@ -1,3 +1,3 @@
-function averageOfTwo(a, b) {
-  return (a + b)/2;             
+function averageOfThree(a, b) {
+  return (a + b)/3;             
 }
