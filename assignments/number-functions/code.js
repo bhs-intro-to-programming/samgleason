@@ -1,3 +1,3 @@
-function divide(a, b) {
+function mod(a, b) {
   return a/b;             
 }
