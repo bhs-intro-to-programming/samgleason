@@ -1,3 +1,3 @@
 function averageOfTwo(a, b) {
-  return a + bA/B;             
+  return a + b / 2;             
 }
