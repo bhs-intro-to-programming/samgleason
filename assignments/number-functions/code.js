@@ -1,3 +1,3 @@
-function mod(a, b) {
+function averageOfTwo(a, b) {
   return a + bA/B;             
 }
