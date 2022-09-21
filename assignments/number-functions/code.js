@@ -1,3 +1,3 @@
 function averageOfThree(a, b) {
-  return (a + b)/3;             
+  return (a + b + C)/3;             
 }
