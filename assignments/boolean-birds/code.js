@@ -17,5 +17,15 @@
  *
  */
 const isFlobbyBird = (isRed, isSpotted) =>{
-  return  (isRed, isSpotted);              
+
+if (isRed > 0) {
+
+  if (isSpotted > 0) {
+  
+    return true
+  
+  }   
+  
+} else
+    return false
 }
