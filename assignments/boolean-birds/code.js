@@ -28,12 +28,11 @@ if (isRed > 0) {
 
       return false
 
-}
+  }
 
   
-  }   
   
-} else {
+ else {
     return false
   }
 }
