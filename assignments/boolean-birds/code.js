@@ -23,9 +23,17 @@ if (isRed > 0) {
   if (isSpotted > 0) {
   
     return true
+
+    } else
+
+      return false
+
+}
+
   
   }   
   
-} else
+} else {
     return false
+  }
 }
